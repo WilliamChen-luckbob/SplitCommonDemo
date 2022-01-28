@@ -17,6 +17,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>web-common</module>
+        <module>other-service</module>
     </modules>
 
     <dependencies>
@@ -34,4 +35,5 @@
             <artifactId>commons-lang3</artifactId>
         </dependency>
     </dependencies>
+
 </project>
